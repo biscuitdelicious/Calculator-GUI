@@ -1,6 +1,6 @@
 # Calculator-GUI
 
-#A simple calculator in Tkinter
+A simple calculator in Tkinter
 
 ## Installation:
 
